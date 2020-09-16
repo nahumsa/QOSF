@@ -17,4 +17,4 @@ Find the lowest eigenvalue of the following matrix:
 
 using VQE-like circuits, created by yourself from scratch.
 
-The solution is in the [`task 4.ipynb`](https://github.com/nahumsa/QOSF/blob/master/Task%204.ipynb) jupyter notebook.
+The solution is in the [`task 4.ipynb`](https://nbviewer.jupyter.org/github/nahumsa/QOSF/blob/master/Task%204.ipynb) jupyter notebook.
